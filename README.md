@@ -1,4 +1,4 @@
-# free_fly (release mirror)
+# free_fly (Official mirror)
 
 Installable releases of the **Free Fly** mod for [gen1recomp](https://github.com/bryanthaboi/gen1recomp).
 
